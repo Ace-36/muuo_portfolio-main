@@ -6,5 +6,5 @@ export const headerData = {
   image: "https://i.ibb.co/KmVThBc/Passport-Pic-removebg-preview.png",
   imagebw: "https://i.ibb.co/KmVThBc/Passport-Pic-removebg-preview.png",
   resumePdf:
-    "https://drive.google.com/file/d/1HiNmcOuFFViPKd231Pi3Gt3uqRojj6F2/view?usp=sharing",
+    "https://drive.google.com/file/d/1c5pJTU2RwOLEyAHK0mZlOcocSCs5ecVA/view?usp=sharing",
 };
